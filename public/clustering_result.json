@@ -1,0 +1,702 @@
+[
+    {
+        "post_id": 1,
+        "likes": 2121,
+        "comments": 474,
+        "shares": 628,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 2,
+        "likes": 3660,
+        "comments": 432,
+        "shares": 694,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 3,
+        "likes": 4955,
+        "comments": 408,
+        "shares": 688,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 4,
+        "likes": 1183,
+        "comments": 90,
+        "shares": 187,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 5,
+        "likes": 3499,
+        "comments": 247,
+        "shares": 286,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 6,
+        "likes": 256,
+        "comments": 186,
+        "shares": 211,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 7,
+        "likes": 1982,
+        "comments": 30,
+        "shares": 906,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 8,
+        "likes": 1274,
+        "comments": 45,
+        "shares": 216,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 9,
+        "likes": 317,
+        "comments": 249,
+        "shares": 221,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 10,
+        "likes": 1878,
+        "comments": 225,
+        "shares": 438,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 11,
+        "likes": 1446,
+        "comments": 44,
+        "shares": 52,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 12,
+        "likes": 304,
+        "comments": 42,
+        "shares": 89,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 13,
+        "likes": 45,
+        "comments": 78,
+        "shares": 375,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 14,
+        "likes": 1333,
+        "comments": 144,
+        "shares": 123,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 15,
+        "likes": 889,
+        "comments": 314,
+        "shares": 262,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 16,
+        "likes": 2348,
+        "comments": 154,
+        "shares": 18,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 17,
+        "likes": 2872,
+        "comments": 10,
+        "shares": 736,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 18,
+        "likes": 512,
+        "comments": 123,
+        "shares": 338,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 19,
+        "likes": 2013,
+        "comments": 122,
+        "shares": 183,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 20,
+        "likes": 455,
+        "comments": 86,
+        "shares": 79,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 21,
+        "likes": 559,
+        "comments": 136,
+        "shares": 55,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 22,
+        "likes": 1961,
+        "comments": 44,
+        "shares": 439,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 23,
+        "likes": 332,
+        "comments": 109,
+        "shares": 348,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 24,
+        "likes": 5000,
+        "comments": 80,
+        "shares": 399,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 25,
+        "likes": 898,
+        "comments": 130,
+        "shares": 480,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 26,
+        "likes": 1992,
+        "comments": 70,
+        "shares": 515,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 27,
+        "likes": 3161,
+        "comments": 162,
+        "shares": 137,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 28,
+        "likes": 2083,
+        "comments": 500,
+        "shares": 388,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 29,
+        "likes": 548,
+        "comments": 153,
+        "shares": 731,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 30,
+        "likes": 4594,
+        "comments": 216,
+        "shares": 739,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 31,
+        "likes": 4795,
+        "comments": 449,
+        "shares": 978,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 32,
+        "likes": 4665,
+        "comments": 202,
+        "shares": 183,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 33,
+        "likes": 119,
+        "comments": 147,
+        "shares": 240,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 34,
+        "likes": 2253,
+        "comments": 162,
+        "shares": 28,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 35,
+        "likes": 1309,
+        "comments": 201,
+        "shares": 852,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 36,
+        "likes": 5000,
+        "comments": 500,
+        "shares": 43,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 37,
+        "likes": 4245,
+        "comments": 59,
+        "shares": 83,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 38,
+        "likes": 2463,
+        "comments": 187,
+        "shares": 445,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 39,
+        "likes": 5000,
+        "comments": 430,
+        "shares": 980,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 40,
+        "likes": 447,
+        "comments": 333,
+        "shares": 845,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 41,
+        "likes": 667,
+        "comments": 176,
+        "shares": 461,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 42,
+        "likes": 4929,
+        "comments": 252,
+        "shares": 730,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 43,
+        "likes": 2586,
+        "comments": 97,
+        "shares": 85,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 44,
+        "likes": 3259,
+        "comments": 50,
+        "shares": 177,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 45,
+        "likes": 2236,
+        "comments": 132,
+        "shares": 118,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 46,
+        "likes": 2251,
+        "comments": 380,
+        "shares": 427,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 47,
+        "likes": 4726,
+        "comments": 44,
+        "shares": 993,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 48,
+        "likes": 5000,
+        "comments": 232,
+        "shares": 16,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 49,
+        "likes": 725,
+        "comments": 169,
+        "shares": 298,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 50,
+        "likes": 1551,
+        "comments": 206,
+        "shares": 127,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 51,
+        "likes": 1268,
+        "comments": 73,
+        "shares": 251,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 52,
+        "likes": 950,
+        "comments": 113,
+        "shares": 327,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 53,
+        "likes": 1498,
+        "comments": 46,
+        "shares": 96,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 54,
+        "likes": 4297,
+        "comments": 360,
+        "shares": 825,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 55,
+        "likes": 592,
+        "comments": 34,
+        "shares": 496,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 56,
+        "likes": 3401,
+        "comments": 190,
+        "shares": 230,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 57,
+        "likes": 4846,
+        "comments": 134,
+        "shares": 498,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 58,
+        "likes": 2204,
+        "comments": 116,
+        "shares": 728,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 59,
+        "likes": 344,
+        "comments": 99,
+        "shares": 194,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 60,
+        "likes": 4763,
+        "comments": 332,
+        "shares": 956,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 61,
+        "likes": 3544,
+        "comments": 167,
+        "shares": 761,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 62,
+        "likes": 3742,
+        "comments": 227,
+        "shares": 849,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 63,
+        "likes": 227,
+        "comments": 163,
+        "shares": 127,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 64,
+        "likes": 130,
+        "comments": 452,
+        "shares": 724,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 65,
+        "likes": 3982,
+        "comments": 314,
+        "shares": 326,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 66,
+        "likes": 2265,
+        "comments": 39,
+        "shares": 318,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 67,
+        "likes": 2026,
+        "comments": 390,
+        "shares": 165,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 68,
+        "likes": 560,
+        "comments": 486,
+        "shares": 677,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 69,
+        "likes": 187,
+        "comments": 89,
+        "shares": 284,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 70,
+        "likes": 3094,
+        "comments": 86,
+        "shares": 965,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 71,
+        "likes": 3398,
+        "comments": 261,
+        "shares": 630,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 72,
+        "likes": 1690,
+        "comments": 257,
+        "shares": 656,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 73,
+        "likes": 3026,
+        "comments": 11,
+        "shares": 761,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 74,
+        "likes": 5000,
+        "comments": 454,
+        "shares": 744,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 75,
+        "likes": 5000,
+        "comments": 500,
+        "shares": 404,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 76,
+        "likes": 2153,
+        "comments": 81,
+        "shares": 114,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 77,
+        "likes": 3571,
+        "comments": 102,
+        "shares": 96,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 78,
+        "likes": 2990,
+        "comments": 30,
+        "shares": 365,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 79,
+        "likes": 4678,
+        "comments": 189,
+        "shares": 785,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 80,
+        "likes": 553,
+        "comments": 320,
+        "shares": 312,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 81,
+        "likes": 2642,
+        "comments": 33,
+        "shares": 413,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 82,
+        "likes": 4656,
+        "comments": 314,
+        "shares": 757,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 83,
+        "likes": 5000,
+        "comments": 173,
+        "shares": 792,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 84,
+        "likes": 1203,
+        "comments": 263,
+        "shares": 417,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 85,
+        "likes": 2566,
+        "comments": 368,
+        "shares": 304,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 86,
+        "likes": 2416,
+        "comments": 50,
+        "shares": 62,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 87,
+        "likes": 15,
+        "comments": 70,
+        "shares": 454,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 88,
+        "likes": 3404,
+        "comments": 244,
+        "shares": 67,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 89,
+        "likes": 2884,
+        "comments": 197,
+        "shares": 339,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 90,
+        "likes": 3195,
+        "comments": 109,
+        "shares": 243,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 91,
+        "likes": 3956,
+        "comments": 402,
+        "shares": 462,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 92,
+        "likes": 1857,
+        "comments": 216,
+        "shares": 344,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 93,
+        "likes": 951,
+        "comments": 432,
+        "shares": 734,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 94,
+        "likes": 1694,
+        "comments": 207,
+        "shares": 290,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 95,
+        "likes": 3005,
+        "comments": 124,
+        "shares": 517,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 96,
+        "likes": 36,
+        "comments": 294,
+        "shares": 911,
+        "cluster_label": "Normal"
+    },
+    {
+        "post_id": 97,
+        "likes": 314,
+        "comments": 108,
+        "shares": 458,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 98,
+        "likes": 229,
+        "comments": 179,
+        "shares": 38,
+        "cluster_label": "Sepi"
+    },
+    {
+        "post_id": 99,
+        "likes": 5000,
+        "comments": 500,
+        "shares": 204,
+        "cluster_label": "Viral"
+    },
+    {
+        "post_id": 100,
+        "likes": 4483,
+        "comments": 357,
+        "shares": 25,
+        "cluster_label": "Viral"
+    }
+]
