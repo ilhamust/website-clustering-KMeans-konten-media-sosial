@@ -1,30 +1,67 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
-</template>
+  <div class="container">
+    <h1>Aplikasi Web Clustering Konten Media Sosial</h1>
+    <p>Hasil analisis clustering menggunakan algoritma K-Means.</p>
 
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+    <button @click="loadData">Mulai Analisis</button>
+
+    <table v-if="data.length">
+      <thead>
+        <tr>
+          <th>Post ID</th>
+          <th>Likes</th>
+          <th>Comments</th>
+          <th>Shares</th>
+          <th>Cluster</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="item in data" :key="item.post_id">
+          <td>{{ item.post_id }}</td>
+          <td>{{ item.likes }}</td>
+          <td>{{ item.comments }}</td>
+          <td>{{ item.shares }}</td>
+          <td>{{ item.cluster_label }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</template>
+<script>
+export default {
+  data() {
+    return {
+      data: []
+    }
+  },
+  methods: {
+    async loadData() {
+      const response = await fetch('/clustering_result.json')
+      this.data = await response.json()
+    }
+  }
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+</script>
+<style>
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
 }
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f4f4f4;
 }
 </style>
